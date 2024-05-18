@@ -12,7 +12,6 @@ Aspiring cybersecurity analyst, transitioning from aviation, aiming to utilize t
 Driven by deep curiosity and passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
