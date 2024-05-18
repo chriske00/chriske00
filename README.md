@@ -51,12 +51,19 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 <div>
 <a href="https://grow.google/certificates/cybersecurity/">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Fundamentals-FF0000?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Fundamentals" />
+  </a> <a href="https://tcm.com/courses/python-101">
+    <img src="https://img.shields.io/badge/-Python%20101-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python 101 from TCM Academy" />
   </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+  <a href="https://tcm.com/courses/python-201">
+    <img src="https://img.shields.io/badge/-Python%20201-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python 201 from TCM Academy" />
+  </a><a href="https://tcm.com/courses/linux-101">
+    <img src="https://img.shields.io/badge/-Linux%20101-FCC624?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux 101 from TCM Academy" />
+  </a> <a href="https://tcm.com/courses/grc">
+    <img src="https://img.shields.io/badge/-GRC-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="GRC from TCM Academy" />
+  </a>
+ <a href="https://tcm.com/courses/malware-analysis-triage">
+    <img src="https://img.shields.io/badge/-Practical%20Malware%20Analysis%20%26%20Triage-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Practical Malware Analysis & Triage from TCM Academy" />
+  </a>
 
 ## Projects
 - Detection Lab
