@@ -58,5 +58,5 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
   </a>
     
 ## Projects
-- Detection Lab
+- Filters applied to SQL Queries 
 - SOC Automation Project
