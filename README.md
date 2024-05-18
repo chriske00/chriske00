@@ -30,8 +30,7 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-
-
+  
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -54,7 +53,10 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
  <a href="https://tcm.com/courses/malware-analysis-triage">
     <img src="https://img.shields.io/badge/-Practical%20Malware%20Analysis%20%26%20Triage-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Practical Malware Analysis & Triage from TCM Academy" />
   </a>
-
+  <a href="https://tcm.com/courses/sql">
+    <img src="https://img.shields.io/badge/-SQL-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="SQL from TCM Academy" />
+  </a>
+    
 ## Projects
 - Detection Lab
 - SOC Automation Project
