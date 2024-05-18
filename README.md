@@ -16,7 +16,7 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Filters applied to SQL Queries          | <a href="github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysisb</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,5 +58,4 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
   </a>
     
 ## Projects
-- Filters applied to SQL Queries 
-- SOC Automation Project
+- <a href="https://github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysis</a>
