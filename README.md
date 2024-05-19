@@ -15,7 +15,7 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Filters applied to SQL Queries          | <a href="github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysisb</a>|
+| Filters applied to SQL Queries          | <<a href="https://github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysis</a> |
 | Risk-assessment-report | <a href="https://github.com/chriske00/Risk-assessment-report/tree/main">Detection Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
