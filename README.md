@@ -18,7 +18,7 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 | Filters applied to SQL Queries          | <<a href="https://github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysis</a> |
 | Risk-assessment-report | <a href="https://github.com/chriske00/Risk-assessment-report/tree/main">Detection Lab</a> |
 | Windows Defender Antivirus        | <a href="https://github.com/chriske00/Windows-Defender-Antivirus">Windows-Defender-Antivirus</a> |
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Window Defender Firewall      |<a href="https://github.com/chriske00/Windows-Defender-Firewall/tree/main">Windows-Defender-Firewall</a> |
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -58,3 +58,4 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 - <a href="https://github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysis</a>
 - <a href="https://github.com/chriske00/Risk-assessment-report/tree/main">Detection Lab</a>
 - <a href="https://github.com/chriske00/Windows-Defender-Antivirus">Windows-Defender-Antivirus</a>
+- <a href="https://github.com/chriske00/Windows-Defender-Firewall/tree/main">Windows-Defender-Firewall</a>
