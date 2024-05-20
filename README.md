@@ -17,7 +17,7 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 |-----------------------------------------------|----------------------------|
 | Filters applied to SQL Queries          | <<a href="https://github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysis</a> |
 | Risk-assessment-report | <a href="https://github.com/chriske00/Risk-assessment-report/tree/main">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Windows Defender Antivirus        | <a href="https://github.com/chriske00/Windows-Defender-Antivirus">Windows-Defender-Antivirus</a> |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
