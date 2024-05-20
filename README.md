@@ -22,8 +22,6 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -35,7 +33,7 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://grow.google/certificates/cybersecurity/">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Fundamentals-FF0000?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Fundamentals" />
@@ -58,4 +56,5 @@ Driven by deep curiosity and passion for cybersecurity. I am now eager to transi
     
 ## Projects
 - <a href="https://github.com/chriske00/SQL-Querying-and-Data-Analysis">SQL-Querying-and-Data-Analysis</a>
-- <a href="https://github.com/chriske00/Risk-assessment-report/tree/main">Detection Lab</a> 
+- <a href="https://github.com/chriske00/Risk-assessment-report/tree/main">Detection Lab</a>
+- <a href="https://github.com/chriske00/Windows-Defender-Antivirus">Windows-Defender-Antivirus</a>
